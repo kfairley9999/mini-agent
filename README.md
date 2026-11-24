@@ -1,6 +1,6 @@
 # mini-agent
 
-[![CI](https://github.com/kfairy9999/mini-agent/actions/workflows/ci.yml/badge.svg)](https://github.com/kfairy9999/mini-agent/actions/workflows/ci.yml)
+[![CI](https://github.com/kfairley9999/mini-agent/actions/workflows/ci.yml/badge.svg)](https://github.com/kfairley9999/mini-agent/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-3776AB)](pyproject.toml)
 
